@@ -12,11 +12,8 @@ Clicking on "Save as MP3" uses google text-to-speech to translate the text to a 
 This GUI also contains a "Play" button but it is unlikely you will also want to play from within the program. 
 
 GUI design done by yours truly. Feel free to steal or destroy at will. <br>
-
-<img width="800" alt="Screen Shot 2022-10-25 at 9 56 00 AM" src="https://user-images.githubusercontent.com/97214702/197829045-f321dfda-83aa-4a0f-a0cb-aa53b2e09b0a.png"> <br>
+![say_it-details-1](https://user-images.githubusercontent.com/97214702/213806005-09be09a9-af3a-4fa7-9a8f-7a8f2ef25801.png)<br>
 
 Say_it Lite, is a simple app that converts typed text into speech, saves as an MP3 and then plays it. 
-
-<img width="601" alt="Screen Shot 2022-10-25 at 9 55 43 AM" src="https://user-images.githubusercontent.com/97214702/197829239-7f9602ec-813d-45d2-85d9-492ffccc802f.png">
-
-
+![say_it-details-2](https://user-images.githubusercontent.com/97214702/213806049-93387aa3-e0fc-43ef-a3ee-1b5dace0f383.png)<br>
+![say_it-details-3](https://user-images.githubusercontent.com/97214702/213806104-38e97174-8433-46f0-aa7e-e12a1f22cd1b.png)
